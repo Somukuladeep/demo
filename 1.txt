@@ -1,0 +1,2 @@
+veersion contro system is a soft ware tools that helps a software team manage changes to source code over time. Version control software keeps track of every modification to the code in a special kind track of every modification to the code in a special kind of database.
+if mistakes made, developers can turn back the clock and compare earlier versions of the code to help fix the mistales wile minizing disruption to all team members.
